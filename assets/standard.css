@@ -1,0 +1,14 @@
+/* standard.css */
+
+html {
+	text-align: center;
+}
+
+input {
+	font-size: 40px;
+}
+
+#container {
+	position: relative;
+	top: 100px;
+}
